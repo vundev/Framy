@@ -47,4 +47,8 @@ public class GlobalFunctions {
 			}
 		}.start();
 	}
+
+	public static void test() {
+
+	}
 }
